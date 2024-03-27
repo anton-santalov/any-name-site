@@ -1,13 +1,13 @@
 # About me
 
-![](/pics/me.jpg)
+![](/pics/me.png)
 
 - What I like
-	1. sleep
-	2. sleep
-	3. more sleep
+	1) sleep
+	2) sleep
+	3) more sleep
 
 - What I don't like
-	1. WYSIWYG
-	2. grandmas on the bench at the entrance
-	3. cockroaches
+	1) WYSIWYG
+	2) grandmas on the bench at the entrance
+	3) cockroaches
